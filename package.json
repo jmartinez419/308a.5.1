@@ -1,0 +1,17 @@
+{
+  "name": "308a.5.1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json": "^11.0.0"
+  },
+  "type":"module"
+  
+}
